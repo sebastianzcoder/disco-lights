@@ -1,0 +1,43 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="/NKvr^g-+q2xgSBpS1Nz">lightsOn</variable></variables><block type="device_forever" id="6yc_lrOu9cEoguw=%JV!" x="226" y="61"><statement name="HANDLER"><block type="device_show_leds" id="}lJ/9x^:CprHmCm+%!Nn"><field name="LEDS">`
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        # . # . #
+        `</field><next><block type="device_show_leds" id="2K41=O.bf5JD.O,0)M6c"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="(IgmFm/$6CQ{h@*TOTDi"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        . # # # . 
+        # # # # # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="A#pqc62du+1|lR$W+H}["><field name="LEDS">`
+        . # # # . 
+        # # . # # 
+        # . # . # 
+        # # . # # 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="MC6n8yLhdxuHaSY(MXFL"><field name="LEDS">`
+        # # . # # 
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        # # . # #
+        `</field><next><block type="device_show_leds" id="ZK]x/0,eYCm#jwb[$gRX"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . # . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="s;CQM)fY)Ex::1!s1.tS"><field name="LEDS">`
+        # # # # # 
+        # . # # # 
+        # # # # . 
+        # # # # # 
+        # # # # #
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="i{p)z8+`p87aEO]P)Mc4" x="635" y="47"><statement name="HANDLER"><block type="device_set_brightness" id="t1eIl4TI9LoMeA);k7W="><value name="value"><shadow type="math_number_minmax"><mutation min="0" max="255" label="Value" precision="0"></mutation><field name="SLIDER">255</field></shadow><block type="device_get_sound_level" id="%|Q)F|hAYD/6VO@+`H0!"></block></value></block></statement></block></xml>
